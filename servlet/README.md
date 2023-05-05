@@ -11,6 +11,7 @@ mvn clean package
 将hello.war文件deploy到Tomcat服务其中，然后start server。
 
 访问：
-```
-http://localhost:8080/servlet-1.0-SNAPSHOT/hello
-```
+
+- [hello world](http://localhost:8080/servlet-1.0-SNAPSHOT/hello)
+- [json](http://localhost:8080/servlet-1.0-SNAPSHOT/person)
+
